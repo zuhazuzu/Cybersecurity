@@ -13,12 +13,9 @@
 
 - Yksityiskohtainen kuvaus ja kategoriointi löydetyistä poikkeamista ja haavoittuvuuksista
 
-<span style="color:red">
 Path Traversal - Riskiluokka: High - 3 Kpl 
- </span>
  - Kuten mainittu polkujen hyväksi käyttö päästäkseen käsiksi tietoihin joihin ei ole asiaa.
- 
- <span style="color:red">
+
 SQL Injection - Riskiluokka: High - 4 kpl
 </span>
  - Pakotettu SQL komennon syöttäminen, jotta päästään tietokantoihin käsiksi.
