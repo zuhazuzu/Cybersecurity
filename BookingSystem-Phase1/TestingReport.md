@@ -17,32 +17,21 @@ Path Traversal - Riskiluokka: High - 3 Kpl
  - Kuten mainittu polkujen hyväksi käyttö päästäkseen käsiksi tietoihin joihin ei ole asiaa.
 
 SQL Injection - Riskiluokka: High - 4 kpl
-</span>
  - Pakotettu SQL komennon syöttäminen, jotta päästään tietokantoihin käsiksi.
  
-<span style="color:yellow">
 Content Security Policy (CSP) Header Not Set - Riskiluokka: Medium - 1 kpl
-</span>
 - Ei ole rajoitettu mistä sivusto saa ladata resursseja. Tämä voi johtaa mm: ulkoisen koodin syöttämisen palveluun.
 
-<span style="color:yellow">
 Format String Error - Riskiluokka: Medium - 1 kpl
-</span>
  - Ohjelma saattaa lukea käyttäjän syöttämää teksiä formaattikomentona sen sijaan, että se käsittelisi sitä pelkkänä tekstinä.
  
- <span style="color:yellow">
 Missing Anti-clickjacking Header - Riskiluokka: Medium - 1 kpl
-</span>
 - Sivustoa ei ole suojattu "ClickJacking"- hyökkäykseltä, josta voi seurata tietojan kaappaaminen.
 
-<span style="color:green">
 X-Content-Type-Options Header Missing - Riskiluokka: Low - 3 kpl
-</span>
 - Otsikolle ei ole annettu "NoSniff" arvoa, jonka seurauksena selaimet voivat tulkita tietoa väärin ja täten käsitellä sitä väärin.
 
-<span style="color:blue">
 User Agent Fuzzer - Riskiluokka: Informational -  12 kpl
-</span>
 - Ohjelman vaste voi riippua siitä, millainen selain tai hakukone on käsittelemässä tietoa.
 
 
