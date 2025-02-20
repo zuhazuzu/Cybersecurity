@@ -10,10 +10,9 @@
 - Yleinen arvio tietoturvan tilasta.
 	- Tietoturva on lähes olematonta. Ongelmia on useita ja monet niistä vaatii välitöntä huomiota.
 3. Löydökset ja löydöksien kategoriointi:
-
 - Yksityiskohtainen kuvaus ja kategoriointi löydetyistä poikkeamista ja haavoittuvuuksista
 
-Path Traversal - Riskiluokka: High - 3 Kpl 
+Path Traversal - Riskiluokka: $\color{red}{\textsf{High}}$ - 3 Kpl 
  - Kuten mainittu polkujen hyväksi käyttö päästäkseen käsiksi tietoihin joihin ei ole asiaa.
 
 SQL Injection - Riskiluokka: High - 4 kpl
