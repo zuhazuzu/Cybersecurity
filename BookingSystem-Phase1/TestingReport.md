@@ -15,22 +15,22 @@
 Path Traversal - Riskiluokka: $\color{red}{\textsf{High}}$ - 3 Kpl 
  - Kuten mainittu polkujen hyväksi käyttö päästäkseen käsiksi tietoihin joihin ei ole asiaa.
 
-SQL Injection - Riskiluokka: High - 4 kpl
+SQL Injection - Riskiluokka: $\color{red}{\textsf{High}}$ - 4 kpl
  - Pakotettu SQL komennon syöttäminen, jotta päästään tietokantoihin käsiksi.
  
-Content Security Policy (CSP) Header Not Set - Riskiluokka: Medium - 1 kpl
+Content Security Policy (CSP) Header Not Set - Riskiluokka: $\color{Yellow}{\textsf{Medium}}$ - 1 kpl
 - Ei ole rajoitettu mistä sivusto saa ladata resursseja. Tämä voi johtaa mm: ulkoisen koodin syöttämisen palveluun.
 
-Format String Error - Riskiluokka: Medium - 1 kpl
+Format String Error - Riskiluokka: $\color{Yellow}{\textsf{Medium}}$ - 1 kpl
  - Ohjelma saattaa lukea käyttäjän syöttämää teksiä formaattikomentona sen sijaan, että se käsittelisi sitä pelkkänä tekstinä.
  
-Missing Anti-clickjacking Header - Riskiluokka: Medium - 1 kpl
+Missing Anti-clickjacking Header - Riskiluokka: $\color{Yellow}{\textsf{Medium}}$ - 1 kpl
 - Sivustoa ei ole suojattu "ClickJacking"- hyökkäykseltä, josta voi seurata tietojan kaappaaminen.
 
-X-Content-Type-Options Header Missing - Riskiluokka: Low - 3 kpl
+X-Content-Type-Options Header Missing - Riskiluokka: $\color{Green}{\textsf{Low}}$ - 3 kpl
 - Otsikolle ei ole annettu "NoSniff" arvoa, jonka seurauksena selaimet voivat tulkita tietoa väärin ja täten käsitellä sitä väärin.
 
-User Agent Fuzzer - Riskiluokka: Informational -  12 kpl
+User Agent Fuzzer - Riskiluokka: $\color{Blue}{\textsf{Informational}}$ -  12 kpl
 - Ohjelman vaste voi riippua siitä, millainen selain tai hakukone on käsittelemässä tietoa.
 
 
