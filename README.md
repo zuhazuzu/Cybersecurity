@@ -18,4 +18,4 @@ Logbook and perhaps some assignments for Cybersecurity course.
 | 31.1.2025 |        1.5        |     Portswigger      |     Installing Burb and trying to understand it and portswigger enviroment.      |
 | 6.2.2025  |         3         |   Portswigger Labs   |                    Completing Labs and making report of them.                    |
 | 14.2.2025 |         2         |        class         |                                   Penetration.                                   |
-| 19.2.2025 |       3+4         | Penetration testing  |                     Installing required softwares and etc...                     |
+| 19.2.2025 |       3+4         | Penetration testing  |                     Installing required softwares and making tests and reports.  |
