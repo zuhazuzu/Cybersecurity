@@ -45,3 +45,5 @@ $\color{Yellow}{\textsf{Riski: Medium}}$ 1kpl
 
 $\color{Blue}{\textsf{Riski: Informational}}$ 1kpl
 Sivustolle lähettäessä erilaisia "User-Agent"- otsikoita verrataan tuloksia ja palvelimen vastauksia. Erityyppiset selaimet ja selain versiot saattavat antaa erilaisia vastauksia pyyntöihin, jolloin palvelussa on mieto haavoittuvaisuus. 
+
+[ZAP-reportVer2](zap-reportVer2.md) 
