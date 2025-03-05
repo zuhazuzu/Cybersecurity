@@ -35,3 +35,13 @@ User Agent Fuzzer - Riskiluokka: $\color{Blue}{\textsf{Informational}}$ -  12 kp
 
 
 [ZAP-report](zap-report.md)
+
+## Päivitetty raportti (PART2)
+
+Päivitetyssä ohjelmassa oli muutettu käyttäjän kirjautumista hieman. lisäksi suuria korjauksia tietoturvaan.
+
+$\color{Yellow}{\textsf{Riski: Medium}}$ 1kpl
+"host" parametri käsittelee syötettä virheellisesti. ohjelma voi ottaa vastaan "%s" ja "%n" kaltaisia formaattimerkkejä, joiden avulla ohjelmaan voidaan mahdollisesti kirjoittaa syötettä, joka puolestaan näkyy muistikorruptiona ja voi kaataa sovelluksen.
+
+$\color{Blue}{\textsf{Riski: Informational}}$ 1kpl
+Sivustolle lähettäessä erilaisia "User-Agent"- otsikoita verrataan tuloksia ja palvelimen vastauksia. Erityyppiset selaimet ja selain versiot saattavat antaa erilaisia vastauksia pyyntöihin, jolloin palvelussa on mieto haavoittuvaisuus. 
