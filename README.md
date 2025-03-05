@@ -1,9 +1,9 @@
 # Cybersecurity
 Logbook and perhaps some assignments for Cybersecurity course.
 
-- [ ] Cisco introduction to Cybersecurity.
-
-
+- [x] Cisco introduction to Cybersecurity.
+- [x] Phase1 - part 1
+- [x] Phase1 - part 2
 
 
 
@@ -19,3 +19,4 @@ Logbook and perhaps some assignments for Cybersecurity course.
 | 6.2.2025  |         3         |   Portswigger Labs   |                    Completing Labs and making report of them.                    |
 | 14.2.2025 |         2         |        class         |                                   Penetration.                                   |
 | 19.2.2025 |       3+4         | Penetration testing  |                     Installing required softwares and making tests and reports.  |
+| 5.3.2025  |        2          | Penetration testing  |  Installing updated version of Booking system, testing and reporting             |
