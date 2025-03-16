@@ -20,3 +20,5 @@ Logbook and perhaps some assignments for Cybersecurity course.
 | 14.2.2025 |         2         |        class         |                                   Penetration.                                   |
 | 19.2.2025 |       3+4         | Penetration testing  |                     Installing required softwares and making tests and reports.  |
 | 5.3.2025  |        2          | Penetration testing  |  Installing updated version of Booking system, testing and reporting             |
+| 8.3.2025  |        3          | cracking passwords   | Playing whith john the ripper                                                    |
+| 16.3.2025 |        2          | cracking passwords   | Got them rest correctly open                                                     |
