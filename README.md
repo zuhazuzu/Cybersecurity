@@ -22,3 +22,4 @@ Logbook and perhaps some assignments for Cybersecurity course.
 | 5.3.2025  |        2          | Penetration testing  |  Installing updated version of Booking system, testing and reporting             |
 | 8.3.2025  |        3          | cracking passwords   | Playing whith john the ripper                                                    |
 | 16.3.2025 |        2          | cracking passwords   | Got them rest correctly open                                                     |
+| 22.3.2025 |       5           | 2.2                  | Burb and hydra stuff                                                             |
