@@ -11,6 +11,7 @@ I did not found specific way for admin to remove reservations. other parts (1,2,
 | `/` (index)             |       |          |               |
 | └── View resource form  |   ✅   |    ✅     |       ✅       |
 | └── Create new resource |   ❌   |    ✅     |       ✅       |
+
 Users can go to web page.
 
 
@@ -38,6 +39,7 @@ Users can go to web page.
 | `/register`         | Guest | Reserver | Administrator |
 | :------------------ | :---: | :------: | :-----------: |
 | └── create new user |   ✅   |    ✅     |       ✅       |
+
 Everyone can enter register page, but Reserver and Admin have to navigate via URL navigation.
 
 | `/login`              | Guest | Reserver | Administrator |
@@ -48,21 +50,25 @@ Everyone can enter register page, but Reserver and Admin have to navigate via UR
 | `/logout`    | Guest | Reserver | Administrator |
 | :----------- | :---: | :------: | :-----------: |
 | └──can enter |   ✅   |    ✅     |       ✅       |
+
 Guest has to enter here via URL, others can do it also by UI button
 
 | `/http://localhost:8000/api/users | Guest | Reserver | Administrator |
 | :-------------------------------- | :---: | :------: | :-----------: |
 | └──can enter                      |   ✅   |    ✅     |       ✅       |
+
 All can enter via URL and see 1: user token., 2: user name and 3: role
 
 | `http://localhost:8000/api/resources | Guest | Reserver | Administrator |
 | :----------------------------------- | :---: | :------: | :-----------: |
 | └──can enter                         |   ✅   |    ✅     |       ✅       |
+
 All can see information in here when entering correct ULR
 
 | `http://localhost:8000/api/session | Guest | Reserver | Administrator |
 | :--------------------------------- | :---: | :------: | :-----------: |
 | └──can enter                       |   ✅   |    ✅     |       ✅       |
+
 All can enter page and whoever is in page, gets corresponding response from site
 1. user gets "unauthorized"
 2. reserver and admin gets their email and role.
@@ -70,19 +76,23 @@ All can enter page and whoever is in page, gets corresponding response from site
 | `http://localhost:8000/api/reservations/1 | Guest | Reserver | Administrator |
 | :---------------------------------------- | :---: | :------: | :-----------: |
 | └──can enter                              |   ✅   |    ✅     |       ✅       |
+
 reservation and corresponding ID (here is 1) shows information about reservation.
 
 | `http://localhost:8000/static/reservationsForm.js | Guest | Reserver | Administrator |
 | :------------------------------------------------ | :---: | :------: | :-----------: |
 | └──can enter                                      |   ✅   |    ✅     |       ✅       |
+
 When entering, who ever enters gets to see contents of this file. 
 
 | `http://localhost:8000/static/resourceForm.js | Guest | Reserver | Administrator |
 | :-------------------------------------------- | :---: | :------: | :-----------: |
 | └──can enter                                  |   ✅   |    ✅     |       ✅       |
+
 When entering, who ever enters gets to see contents of this file. 
 
 | `http://localhost:8000/static/tailwind.css | Guest | Reserver | Administrator |
 | :----------------------------------------- | :---: | :------: | :-----------: |
 | └──can enter                               |   ✅   |    ✅     |       ✅       |
+
 When entering, who ever enters gets to see contents of this file. 
