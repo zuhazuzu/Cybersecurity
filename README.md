@@ -18,7 +18,8 @@ Logbook and perhaps some assignments for Cybersecurity course.
 | 31.1.2025 |        1.5        |     Portswigger      |     Installing Burb and trying to understand it and portswigger enviroment.      |
 | 6.2.2025  |         3         |   Portswigger Labs   |                    Completing Labs and making report of them.                    |
 | 14.2.2025 |         2         |        class         |                                   Penetration.                                   |
-| 19.2.2025 |       3+4         | Penetration testing  |                     Installing required softwares and making tests and reports.  |
+| 19.2.2025 |       6           | Penetration testing  |                     Installing required softwares and making tests and reports.  |
+| 1.3.2025  |         4         |  passowrd guessing   |   I had this in my personal notes. but dont recall wha i actually did            |
 | 5.3.2025  |        2          | Penetration testing  |  Installing updated version of Booking system, testing and reporting             |
 | 8.3.2025  |        3          | cracking passwords   | Playing whith john the ripper                                                    |
 | 16.3.2025 |        2          | cracking passwords   | Got them rest correctly open                                                     |
