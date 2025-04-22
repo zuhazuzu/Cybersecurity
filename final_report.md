@@ -79,6 +79,8 @@ Phase 2 - 9h.
 Phase 3 - 4h.
 Phase 4 - 4h.
 
+Lisäksi oppitunteja joihin meni loput ajasta.
+
 Lokikirjan tekeminen palautti mukavasti mieleen asioita joita käsiteltiin. Itellä lokikirja oli paikallisesti Obsidian ohjelmassa josta ne sai helposti .md muotoon. joten sen päivitys GitHub:iin ei ollut aina ihan ajallaan. En kyllä osaa sanoa mitä tästä lokikirjan pitämisestä opin. Voiko sanoa että opin pitämään lokikirjaa? 
 
 ### Palaute. 
